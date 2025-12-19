@@ -1,0 +1,21 @@
+##############################
+Log started on 1/21/2023 6:11:07 AM
+
+1/21/2023 6:11:40 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') used command 'admin '
+##############################
+Log started on 1/21/2023 6:20:26 AM
+
+1/21/2023 6:24:44 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') used command 'unhide '
+1/21/2023 6:24:46 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') unhiding 0x1 "Dungeon Master" ('Admin')
+1/21/2023 6:41:23 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') used command 'props '
+1/21/2023 7:00:41 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') used command 'remove '
+1/21/2023 7:00:42 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') deleting 0x4005D40E (SmithHammer)
+1/21/2023 7:00:44 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') used command 'add pickaxe'
+1/21/2023 7:00:46 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') building at (806, 1155, 40) in SerpentIsland: "pickaxe"
+1/21/2023 7:00:46 AM: 127.0.0.1: Serials: 0x40015B3D; 
+1/21/2023 7:00:55 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') used command 'remove '
+1/21/2023 7:00:56 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') deleting 0x193A9 "Grelarin" (no account)
+1/21/2023 7:01:15 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') used command 'go '
+##############################
+Log started on 1/21/2023 7:23:32 AM
+

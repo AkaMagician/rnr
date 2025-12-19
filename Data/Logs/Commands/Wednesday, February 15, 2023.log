@@ -1,0 +1,19 @@
+##############################
+Log started on 2/15/2023 4:55:35 AM
+
+2/15/2023 5:04:51 AM: 127.0.0.1: Player 0x1B989 "Viktur" ('Xork') used command 'skilllist '
+##############################
+Log started on 2/15/2023 1:30:51 PM
+
+2/15/2023 1:36:27 PM: 127.0.0.1: Player 0x1B989 "Viktur" ('Xork') used command 'magicgate '
+2/15/2023 1:56:11 PM: 127.0.0.1: Player 0x1B989 "Viktur" ('Xork') used command 'skilllist '
+##############################
+Log started on 2/15/2023 2:26:44 PM
+
+2/15/2023 2:27:16 PM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') used command 'who '
+2/15/2023 2:27:18 PM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') going to 0x1B989 "Viktur" ('Xork'), Location (5657, 1367, -3), Map Lodor
+2/15/2023 2:27:24 PM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') used command 'res '
+2/15/2023 2:27:30 PM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') used command 'remove '
+2/15/2023 2:27:32 PM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') deleting 0x5281 "Apamun" (no account)
+2/15/2023 2:27:34 PM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') used command 'res '
+2/15/2023 2:27:36 PM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') resurrecting 0x1B989 "Viktur" ('Xork')

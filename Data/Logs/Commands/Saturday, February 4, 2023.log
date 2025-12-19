@@ -1,0 +1,150 @@
+##############################
+Log started on 2/4/2023 4:12:58 AM
+
+2/4/2023 4:14:21 AM: 127.0.0.1: Player 0x1B989 "Viktur" ('Xork') used command 'skilllist '
+2/4/2023 6:04:16 AM: 127.0.0.1: Player 0x1B989 "Viktur" ('Xork') used command 'skilllist '
+##############################
+Log started on 2/4/2023 8:28:20 AM
+
+2/4/2023 8:28:42 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') used command 'go '
+2/4/2023 8:29:00 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') used command 'add unknown'
+2/4/2023 8:29:03 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') building at (3042, 1071, 0) in Sosaria: "UnknownLiquid"
+2/4/2023 8:29:03 AM: 127.0.0.1: Serials: 0x400111D0; 
+2/4/2023 8:29:04 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') building at (3043, 1070, 0) in Sosaria: "UnknownLiquid"
+2/4/2023 8:29:04 AM: 127.0.0.1: Serials: 0x400111F0; 
+2/4/2023 8:29:05 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') building at (3044, 1071, 0) in Sosaria: "UnknownLiquid"
+2/4/2023 8:29:05 AM: 127.0.0.1: Serials: 0x400111F2; 
+2/4/2023 8:29:06 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') building at (3044, 1073, 0) in Sosaria: "UnknownLiquid"
+2/4/2023 8:29:06 AM: 127.0.0.1: Serials: 0x40011210; 
+2/4/2023 8:29:06 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') building at (3045, 1072, 0) in Sosaria: "UnknownLiquid"
+2/4/2023 8:29:06 AM: 127.0.0.1: Serials: 0x40011211; 
+2/4/2023 8:29:07 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') building at (3045, 1070, 0) in Sosaria: "UnknownLiquid"
+2/4/2023 8:29:07 AM: 127.0.0.1: Serials: 0x40011223; 
+2/4/2023 8:29:07 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') building at (3045, 1067, 0) in Sosaria: "UnknownLiquid"
+2/4/2023 8:29:07 AM: 127.0.0.1: Serials: 0x40011224; 
+2/4/2023 8:29:08 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') building at (3044, 1068, 0) in Sosaria: "UnknownLiquid"
+2/4/2023 8:29:08 AM: 127.0.0.1: Serials: 0x40011238; 
+2/4/2023 8:29:08 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') building at (3046, 1068, 0) in Sosaria: "UnknownLiquid"
+2/4/2023 8:29:08 AM: 127.0.0.1: Serials: 0x40011239; 
+2/4/2023 8:29:09 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') building at (3044, 1069, 0) in Sosaria: "UnknownLiquid"
+2/4/2023 8:29:09 AM: 127.0.0.1: Serials: 0x400114EA; 
+2/4/2023 8:29:09 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') building at (3043, 1072, 0) in Sosaria: "UnknownLiquid"
+2/4/2023 8:29:09 AM: 127.0.0.1: Serials: 0x400114EB; 
+2/4/2023 8:29:10 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') building at (3043, 1076, 0) in Sosaria: "UnknownLiquid"
+2/4/2023 8:29:10 AM: 127.0.0.1: Serials: 0x400114EC; 
+2/4/2023 8:29:10 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') building at (3045, 1076, 0) in Sosaria: "UnknownLiquid"
+2/4/2023 8:29:10 AM: 127.0.0.1: Serials: 0x400114FE; 
+2/4/2023 8:29:11 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') building at (3044, 1074, 0) in Sosaria: "UnknownLiquid"
+2/4/2023 8:29:11 AM: 127.0.0.1: Serials: 0x400114FF; 
+2/4/2023 8:29:11 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') building at (3041, 1075, 0) in Sosaria: "UnknownLiquid"
+2/4/2023 8:29:11 AM: 127.0.0.1: Serials: 0x40011500; 
+2/4/2023 8:29:12 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') building at (3042, 1078, 0) in Sosaria: "UnknownLiquid"
+2/4/2023 8:29:12 AM: 127.0.0.1: Serials: 0x40011501; 
+2/4/2023 8:29:12 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') building at (3044, 1079, 0) in Sosaria: "UnknownLiquid"
+2/4/2023 8:29:12 AM: 127.0.0.1: Serials: 0x40011502; 
+2/4/2023 8:29:13 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') building at (3043, 1081, 0) in Sosaria: "UnknownLiquid"
+2/4/2023 8:29:13 AM: 127.0.0.1: Serials: 0x40011503; 
+2/4/2023 8:29:13 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') building at (3046, 1078, 0) in Sosaria: "UnknownLiquid"
+2/4/2023 8:29:13 AM: 127.0.0.1: Serials: 0x40011505; 
+2/4/2023 8:29:14 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') building at (3047, 1076, 0) in Sosaria: "UnknownLiquid"
+2/4/2023 8:29:14 AM: 127.0.0.1: Serials: 0x40011507; 
+2/4/2023 8:29:14 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') building at (3046, 1074, 0) in Sosaria: "UnknownLiquid"
+2/4/2023 8:29:14 AM: 127.0.0.1: Serials: 0x40011509; 
+2/4/2023 8:29:20 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') building at (3072, 1056, 0) in Sosaria: "UnknownReagent"
+2/4/2023 8:29:20 AM: 127.0.0.1: Serials: 0x40011774; 
+2/4/2023 8:29:21 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') building at (3072, 1058, 0) in Sosaria: "UnknownReagent"
+2/4/2023 8:29:21 AM: 127.0.0.1: Serials: 0x400119EA; 
+2/4/2023 8:29:21 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') building at (3070, 1061, 0) in Sosaria: "UnknownReagent"
+2/4/2023 8:29:21 AM: 127.0.0.1: Serials: 0x400119EB; 
+2/4/2023 8:29:22 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') building at (3073, 1061, 0) in Sosaria: "UnknownReagent"
+2/4/2023 8:29:22 AM: 127.0.0.1: Serials: 0x400119EC; 
+2/4/2023 8:29:22 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') building at (3074, 1059, 0) in Sosaria: "UnknownReagent"
+2/4/2023 8:29:22 AM: 127.0.0.1: Serials: 0x400119ED; 
+2/4/2023 8:29:23 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') building at (3071, 1060, 0) in Sosaria: "UnknownReagent"
+2/4/2023 8:29:23 AM: 127.0.0.1: Serials: 0x400119EE; 
+2/4/2023 8:29:23 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') building at (3070, 1059, 0) in Sosaria: "UnknownReagent"
+2/4/2023 8:29:23 AM: 127.0.0.1: Serials: 0x400119EF; 
+2/4/2023 8:29:24 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') building at (3069, 1060, 0) in Sosaria: "UnknownReagent"
+2/4/2023 8:29:24 AM: 127.0.0.1: Serials: 0x400119F3; 
+2/4/2023 8:29:24 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') building at (3069, 1062, 0) in Sosaria: "UnknownReagent"
+2/4/2023 8:29:24 AM: 127.0.0.1: Serials: 0x400119F4; 
+2/4/2023 8:29:25 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') building at (3072, 1062, 0) in Sosaria: "UnknownReagent"
+2/4/2023 8:29:25 AM: 127.0.0.1: Serials: 0x400119F5; 
+2/4/2023 8:29:26 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') building at (3072, 1060, 0) in Sosaria: "UnknownReagent"
+2/4/2023 8:29:26 AM: 127.0.0.1: Serials: 0x400119F6; 
+2/4/2023 8:29:26 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') building at (3071, 1058, 0) in Sosaria: "UnknownReagent"
+2/4/2023 8:29:26 AM: 127.0.0.1: Serials: 0x400119F7; 
+2/4/2023 8:29:27 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') building at (3073, 1057, 0) in Sosaria: "UnknownReagent"
+2/4/2023 8:29:27 AM: 127.0.0.1: Serials: 0x400119F8; 
+2/4/2023 8:29:27 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') building at (3070, 1057, 0) in Sosaria: "UnknownReagent"
+2/4/2023 8:29:27 AM: 127.0.0.1: Serials: 0x40011C67; 
+2/4/2023 8:29:28 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') building at (3069, 1059, 0) in Sosaria: "UnknownReagent"
+2/4/2023 8:29:28 AM: 127.0.0.1: Serials: 0x40011C68; 
+2/4/2023 8:29:28 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') building at (3068, 1060, 0) in Sosaria: "UnknownReagent"
+2/4/2023 8:29:28 AM: 127.0.0.1: Serials: 0x40011C69; 
+2/4/2023 8:29:28 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') building at (3068, 1060, 1) in Sosaria: "UnknownReagent"
+2/4/2023 8:29:28 AM: 127.0.0.1: Serials: 0x40011C6A; 
+2/4/2023 8:29:29 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') building at (3068, 1061, 0) in Sosaria: "UnknownReagent"
+2/4/2023 8:29:29 AM: 127.0.0.1: Serials: 0x40011C6B; 
+2/4/2023 8:29:29 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') building at (3068, 1063, 0) in Sosaria: "UnknownReagent"
+2/4/2023 8:29:29 AM: 127.0.0.1: Serials: 0x40011C6C; 
+2/4/2023 8:29:30 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') building at (3068, 1064, 0) in Sosaria: "UnknownReagent"
+2/4/2023 8:29:30 AM: 127.0.0.1: Serials: 0x40011C6D; 
+2/4/2023 8:29:30 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') building at (3067, 1065, 0) in Sosaria: "UnknownReagent"
+2/4/2023 8:29:30 AM: 127.0.0.1: Serials: 0x40011C6E; 
+2/4/2023 8:29:30 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') building at (3064, 1068, 0) in Sosaria: "UnknownReagent"
+2/4/2023 8:29:30 AM: 127.0.0.1: Serials: 0x40011C70; 
+2/4/2023 8:29:31 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') building at (3063, 1068, 0) in Sosaria: "UnknownReagent"
+2/4/2023 8:29:31 AM: 127.0.0.1: Serials: 0x40011C72; 
+2/4/2023 8:29:31 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') building at (3066, 1070, 0) in Sosaria: "UnknownReagent"
+2/4/2023 8:29:31 AM: 127.0.0.1: Serials: 0x40011C73; 
+2/4/2023 8:29:31 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') building at (3065, 1067, 0) in Sosaria: "UnknownReagent"
+2/4/2023 8:29:31 AM: 127.0.0.1: Serials: 0x40011C74; 
+2/4/2023 8:29:32 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') building at (3063, 1067, 0) in Sosaria: "UnknownReagent"
+2/4/2023 8:29:32 AM: 127.0.0.1: Serials: 0x40011C75; 
+2/4/2023 8:29:32 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') building at (3059, 1067, 0) in Sosaria: "UnknownReagent"
+2/4/2023 8:29:32 AM: 127.0.0.1: Serials: 0x40011C76; 
+2/4/2023 8:29:32 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') building at (3060, 1064, 0) in Sosaria: "UnknownReagent"
+2/4/2023 8:29:32 AM: 127.0.0.1: Serials: 0x40011C77; 
+2/4/2023 8:29:33 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') building at (3061, 1061, 0) in Sosaria: "UnknownReagent"
+2/4/2023 8:29:33 AM: 127.0.0.1: Serials: 0x40011C78; 
+2/4/2023 8:29:33 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') building at (3060, 1060, 0) in Sosaria: "UnknownReagent"
+2/4/2023 8:29:33 AM: 127.0.0.1: Serials: 0x400121D2; 
+2/4/2023 8:29:33 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') building at (3062, 1059, 0) in Sosaria: "UnknownReagent"
+2/4/2023 8:29:33 AM: 127.0.0.1: Serials: 0x400121D3; 
+2/4/2023 8:29:34 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') building at (3063, 1058, 0) in Sosaria: "UnknownReagent"
+2/4/2023 8:29:34 AM: 127.0.0.1: Serials: 0x400121D4; 
+2/4/2023 8:29:34 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') building at (3065, 1056, 0) in Sosaria: "UnknownReagent"
+2/4/2023 8:29:34 AM: 127.0.0.1: Serials: 0x400121D5; 
+2/4/2023 8:29:35 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') building at (3066, 1056, 0) in Sosaria: "UnknownReagent"
+2/4/2023 8:29:35 AM: 127.0.0.1: Serials: 0x400121D6; 
+2/4/2023 8:29:35 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') building at (3069, 1056, 0) in Sosaria: "UnknownReagent"
+2/4/2023 8:29:35 AM: 127.0.0.1: Serials: 0x400121D7; 
+2/4/2023 8:29:35 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') building at (3071, 1053, 0) in Sosaria: "UnknownReagent"
+2/4/2023 8:29:35 AM: 127.0.0.1: Serials: 0x400121D8; 
+2/4/2023 8:29:36 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') building at (3073, 1052, 0) in Sosaria: "UnknownReagent"
+2/4/2023 8:29:36 AM: 127.0.0.1: Serials: 0x400121D9; 
+2/4/2023 8:29:36 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') building at (3073, 1053, 0) in Sosaria: "UnknownReagent"
+2/4/2023 8:29:36 AM: 127.0.0.1: Serials: 0x400121DA; 
+2/4/2023 8:29:36 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') building at (3069, 1055, 0) in Sosaria: "UnknownReagent"
+2/4/2023 8:29:36 AM: 127.0.0.1: Serials: 0x400121DB; 
+2/4/2023 8:29:37 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') building at (3072, 1055, 0) in Sosaria: "UnknownReagent"
+2/4/2023 8:29:37 AM: 127.0.0.1: Serials: 0x400121DC; 
+2/4/2023 8:29:37 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') building at (3073, 1055, 0) in Sosaria: "UnknownReagent"
+2/4/2023 8:29:37 AM: 127.0.0.1: Serials: 0x400121DD; 
+2/4/2023 8:29:38 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') building at (3075, 1056, 0) in Sosaria: "UnknownReagent"
+2/4/2023 8:29:38 AM: 127.0.0.1: Serials: 0x400121DE; 
+##############################
+Log started on 2/4/2023 8:36:05 AM
+
+2/4/2023 8:39:44 AM: 127.0.0.1: Player 0x1B989 "Viktur" ('Xork') used command 'magicgate '
+##############################
+Log started on 2/4/2023 8:51:37 AM
+
+2/4/2023 9:07:17 AM: 127.0.0.1: Player 0x1B989 "Viktur" ('Xork') used command 'skilllist '
+2/4/2023 9:07:24 AM: 127.0.0.1: Player 0x1B989 "Viktur" ('Xork') used command 'skilllist '
+2/4/2023 9:07:35 AM: 127.0.0.1: Player 0x1B989 "Viktur" ('Xork') used command 'skilllist '
+##############################
+Log started on 2/4/2023 10:00:17 AM
+
+2/4/2023 10:03:25 AM: 127.0.0.1: Player 0x1B989 "Viktur" ('Xork') used command 'skilllist '

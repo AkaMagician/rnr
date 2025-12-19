@@ -1,0 +1,17 @@
+##############################
+Log started on 2/26/2023 12:49:59 PM
+
+2/26/2023 12:50:15 PM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') used command 'go '
+2/26/2023 12:50:29 PM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') used command 'set fame 15000 karma 15000'
+2/26/2023 12:50:31 PM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') set property 'fame' of 0x1 "Dungeon Master" ('Admin') to '15000'
+2/26/2023 12:50:31 PM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') set property 'karma' of 0x1 "Dungeon Master" ('Admin') to '15000'
+2/26/2023 12:50:36 PM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') used command 'add gold 60000'
+2/26/2023 12:50:37 PM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') building at (5980, 2477, 0) in Sosaria: "gold" "60000"
+2/26/2023 12:50:37 PM: 127.0.0.1: Serials: 0x40018F2C; 
+2/26/2023 12:50:38 PM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') used command 'add gold 60000'
+2/26/2023 12:50:39 PM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') building at (5980, 2478, 0) in Sosaria: "gold" "60000"
+2/26/2023 12:50:39 PM: 127.0.0.1: Serials: 0x40019413; 
+2/26/2023 12:50:48 PM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') used command 'save '
+##############################
+Log started on 2/26/2023 12:54:23 PM
+

@@ -1,0 +1,115 @@
+##############################
+Log started on 2/21/2023 7:01:37 AM
+
+##############################
+Log started on 2/21/2023 7:05:56 AM
+
+2/21/2023 7:07:09 AM: 127.0.0.1: Player 0x1B989 "Viktur" ('Xork') used command 'skilllist '
+##############################
+Log started on 2/21/2023 7:24:13 AM
+
+2/21/2023 7:25:10 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') used command 'who '
+2/21/2023 7:25:13 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') going to 0x1B989 "Viktur" ('Xork'), Location (5133, 156, 0), Map Lodor
+2/21/2023 7:26:17 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') used command 'props '
+2/21/2023 7:26:33 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') used command 'props '
+##############################
+Log started on 2/21/2023 7:29:31 AM
+
+2/21/2023 7:30:41 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') used command 'remove '
+2/21/2023 7:30:42 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') deleting 0x5ACB "a dragoon" (no account)
+2/21/2023 7:31:05 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') used command 'hide '
+2/21/2023 7:31:07 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') hiding 0x1B989 "Viktur" ('Xork')
+2/21/2023 7:31:10 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') used command 'add slaversnet'
+2/21/2023 7:31:11 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') building at (5129, 148, 0) in Lodor: "slaversnet"
+2/21/2023 7:31:11 AM: 127.0.0.1: Serials: 0x4001CBD2; 
+2/21/2023 7:33:11 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') used command 'set hidden false cantwalk false'
+2/21/2023 7:33:13 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') set property 'hidden' of 0x392A "a dragoon" (no account) to 'False'
+2/21/2023 7:33:13 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') set property 'cantwalk' of 0x392A "a dragoon" (no account) to 'False'
+##############################
+Log started on 2/21/2023 7:37:08 AM
+
+2/21/2023 7:37:44 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') used command 'set hidden false'
+2/21/2023 7:37:45 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') set property 'hidden' of 0x5ACB "a dragoon" (no account) to 'False'
+##############################
+Log started on 2/21/2023 7:38:33 AM
+
+2/21/2023 7:38:48 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') used command 'set hidden false'
+2/21/2023 7:38:50 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') set property 'hidden' of 0x5ACB "a dragoon" (no account) to 'False'
+2/21/2023 7:39:14 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') used command 'set hidden true'
+2/21/2023 7:39:16 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') set property 'hidden' of 0x5ACB "a dragoon" (no account) to 'True'
+##############################
+Log started on 2/21/2023 7:39:57 AM
+
+2/21/2023 7:40:16 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') used command 'set hidden false'
+2/21/2023 7:40:17 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') set property 'hidden' of 0x5ACB "a dragoon" (no account) to 'False'
+##############################
+Log started on 2/21/2023 7:40:57 AM
+
+2/21/2023 7:41:06 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') used command 'set hidden false'
+2/21/2023 7:41:08 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') set property 'hidden' of 0x5ACB "a dragoon" (no account) to 'False'
+##############################
+Log started on 2/21/2023 7:41:51 AM
+
+2/21/2023 7:42:00 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') used command 'set hidden false'
+2/21/2023 7:42:05 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') set property 'hidden' of 0x5ACB "a dragoon" (no account) to 'False'
+2/21/2023 7:42:05 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') used command 'set hidden false'
+2/21/2023 7:42:25 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') used command 'set cantwalk false'
+2/21/2023 7:42:27 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') set property 'cantwalk' of 0x5ACB "a dragoon" (no account) to 'False'
+##############################
+Log started on 2/21/2023 7:56:02 AM
+
+2/21/2023 7:56:16 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') used command 'remove '
+2/21/2023 7:56:17 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') deleting 0x5ACB "a dragoon" (no account)
+2/21/2023 7:56:20 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') used command 'add slaversnet'
+2/21/2023 7:56:21 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') building at (5129, 148, 0) in Lodor: "slaversnet"
+2/21/2023 7:56:21 AM: 127.0.0.1: Serials: 0x4000D43E; 
+2/21/2023 7:56:38 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') used command 'hide '
+2/21/2023 7:56:39 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') hiding 0x1B989 "Viktur" ('Xork')
+2/21/2023 7:56:46 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') used command 'remove '
+2/21/2023 7:56:47 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') deleting 0x211D "a valorite dragon" (no account)
+2/21/2023 7:56:50 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') used command 'hide '
+2/21/2023 7:56:52 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') hiding 0x1B989 "Viktur" ('Xork')
+2/21/2023 7:56:59 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') used command 'remove '
+2/21/2023 7:57:00 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') deleting 0x225D "a dragoon" (no account)
+2/21/2023 7:57:05 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') used command 'remove '
+2/21/2023 7:57:06 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') deleting 0x22E8 "a grey dragon" (no account)
+2/21/2023 7:57:11 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') used command 'remove '
+2/21/2023 7:57:12 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') deleting 0x235B "a rubystar dragon" (no account)
+2/21/2023 7:58:37 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') used command 'remove '
+2/21/2023 7:58:39 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') deleting 0x23CC "a dragoon" (no account)
+2/21/2023 7:58:42 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') used command 'add slaversnet'
+2/21/2023 7:58:43 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') building at (5129, 150, 0) in Lodor: "slaversnet"
+2/21/2023 7:58:43 AM: 127.0.0.1: Serials: 0x40012749; 
+2/21/2023 8:00:28 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') used command 'props '
+##############################
+Log started on 2/21/2023 8:06:08 AM
+
+2/21/2023 8:06:27 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') used command 'remove '
+2/21/2023 8:06:28 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') deleting 0x1A23 "a bright dragon" (no account)
+2/21/2023 8:06:36 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') used command 'remove '
+2/21/2023 8:06:37 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') deleting 0x1D7A "a rosescale dragon" (no account)
+2/21/2023 8:06:41 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') used command 'remove '
+2/21/2023 8:06:43 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') deleting 0x1E8E "a pearl dragon" (no account)
+2/21/2023 8:07:05 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') used command 'props '
+2/21/2023 8:07:30 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') used command 'remove '
+2/21/2023 8:07:32 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') deleting 0x1F71 "a dragoon" (no account)
+##############################
+Log started on 2/21/2023 8:10:30 AM
+
+2/21/2023 8:11:33 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') used command 'remove '
+2/21/2023 8:11:34 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') deleting 0x203D "a dragoon" (no account)
+2/21/2023 8:11:42 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') used command 'add slaversnet'
+2/21/2023 8:11:43 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') building at (5129, 150, 0) in Lodor: "slaversnet"
+2/21/2023 8:11:43 AM: 127.0.0.1: Serials: 0x40010ED1; 
+##############################
+Log started on 2/21/2023 8:13:37 AM
+
+##############################
+Log started on 2/21/2023 8:16:44 AM
+
+2/21/2023 8:17:35 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') used command 'add slaversnet'
+2/21/2023 8:17:37 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') building at (5131, 150, 0) in Lodor: "slaversnet"
+2/21/2023 8:17:37 AM: 127.0.0.1: Serials: 0x40015C7F; 
+##############################
+Log started on 2/21/2023 8:20:52 AM
+

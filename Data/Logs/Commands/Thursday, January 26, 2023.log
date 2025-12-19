@@ -1,0 +1,9 @@
+##############################
+Log started on 1/26/2023 1:08:06 PM
+
+1/26/2023 1:08:42 PM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') used command 'unhide '
+1/26/2023 1:08:45 PM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') unhiding 0x1 "Dungeon Master" ('Admin')
+1/26/2023 1:11:52 PM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') used command 'get itemid'
+1/26/2023 1:29:50 PM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') used command 'go '
+1/26/2023 1:31:21 PM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') used command 'props '
+1/26/2023 1:31:26 PM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') used command 'get itemid'

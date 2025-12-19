@@ -1,0 +1,14 @@
+##############################
+Log started on 2/3/2023 4:24:13 AM
+
+2/3/2023 4:25:47 AM: 127.0.0.1: Player 0x1B989 "Viktur" ('Xork') used command 'skilllist '
+##############################
+Log started on 2/3/2023 6:23:36 AM
+
+2/3/2023 6:23:46 AM: 127.0.0.1: Player 0x1B989 "Viktur" ('Xork') used command 'skilllist '
+2/3/2023 7:29:17 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') used command 'who '
+2/3/2023 7:29:19 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') going to 0x1B989 "Viktur" ('Xork'), Location (5233, 535, 0), Map Sosaria
+2/3/2023 7:29:25 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') used command 'remove '
+2/3/2023 7:29:27 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') deleting 0x3705 "a mummy" (no account)
+2/3/2023 7:29:28 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') used command 'res '
+2/3/2023 7:29:30 AM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') resurrecting 0x1B989 "Viktur" ('Xork')

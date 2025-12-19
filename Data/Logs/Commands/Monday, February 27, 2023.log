@@ -1,0 +1,29 @@
+##############################
+Log started on 2/27/2023 1:32:43 PM
+
+2/27/2023 1:37:40 PM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') used command 'go '
+2/27/2023 1:41:38 PM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') used command 'go '
+##############################
+Log started on 2/27/2023 3:23:36 PM
+
+2/27/2023 3:25:48 PM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') used command 'props '
+2/27/2023 3:26:03 PM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') used command 'go 1924 686'
+2/27/2023 3:26:09 PM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') used command 'props '
+##############################
+Log started on 2/27/2023 3:29:52 PM
+
+2/27/2023 3:30:53 PM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') used command 'buildworld '
+2/27/2023 3:31:19 PM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') used command 'hide '
+2/27/2023 3:31:21 PM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') hiding 0x1 "Dungeon Master" ('Admin')
+2/27/2023 3:31:22 PM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') used command 'm tele'
+2/27/2023 3:32:14 PM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') used command 'props '
+2/27/2023 3:32:34 PM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') used command 'm tele'
+2/27/2023 3:33:10 PM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') used command 'props '
+##############################
+Log started on 2/27/2023 3:37:52 PM
+
+2/27/2023 3:38:52 PM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') used command 'helpadmin '
+2/27/2023 3:42:27 PM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') used command 'buildworld '
+2/27/2023 3:46:43 PM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') used command 'hide '
+2/27/2023 3:46:44 PM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') hiding 0x1 "Dungeon Master" ('Admin')
+2/27/2023 3:46:48 PM: 127.0.0.1: Owner 0x1 "Dungeon Master" ('Admin') used command 'm tele'
