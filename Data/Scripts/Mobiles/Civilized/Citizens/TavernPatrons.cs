@@ -313,6 +313,22 @@ namespace Server.Misc
 					else if ( where == "the Isles of Dread" ){ 			where = "the waters of the Dreadful Sea"; }
 					else if ( where == "the Savaged Empire" ){ 			where = "the waters of the Savage Seas"; }
 					else if ( where == "the Land of Sosaria" ){ 		where = "the waters of the Sosaria Ocean"; }
+                                        string world = Server.Misc.Worlds.GetMyWorld( mob.Map, mob.Location, mob.X, mob.Y );
+                                        if ( world != "" && !where.Contains( world ) )
+                                        {
+                                                if ( where != "" )
+                                                {
+                                                        where = where + " in " + world;
+                                                }
+                                                else
+                                                {
+                                                        where = "the waters of " + world;
+                                                }
+                                        }
+                                        else if ( where == "" )
+                                        {
+                                                where = "the waters";
+                                        }
 				}
 			}
 			else
