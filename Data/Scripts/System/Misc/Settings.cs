@@ -48,11 +48,13 @@ namespace Server.Misc
 		private static bool S_PersistentBlackjack = false;
 		private static int S_FloorTrapTrigger = 20;
 		private static int S_GetUnidentifiedChance = 50;
-		private static bool S_NoMacroing = false;
-		private static double S_StatGain = 33.3;
-		private static double S_StatGainDelay = 15.0;
-		private static double S_PetStatGainDelay = 5.0;
-		private static int S_GetTimeBetweenQuests = 60;
+                private static bool S_NoMacroing = false;
+                private static double S_StatGain = 33.3;
+                private static double S_StatGainDelay = 15.0;
+                private static double S_PetStatGainDelay = 5.0;
+                private static double S_SkillGainRateModifier = 1.0;
+                private static double S_SkillGainAmountModifier = 1.0;
+                private static int S_GetTimeBetweenQuests = 60;
 		private static int S_GetTimeBetweenArtifactQuests = 20160;
 		private static int S_GetGoldCutRate = 25;
 		private static bool S_AllowMacroResources = true;
@@ -223,14 +225,16 @@ namespace Server.Misc
 						else if ( setting == 78 ){ S_Stables = Int32.Parse(node.InnerText); }
 						else if ( setting == 79 ){ S_HPModifier = XmlConvert.ToDouble(node.InnerText); }
 						else if ( setting == 80 ){ S_TrainDummies = XmlConvert.ToDouble(node.InnerText); }
-						else if ( setting == 81 ){ S_PickDips = XmlConvert.ToDouble(node.InnerText); }
-						else if ( setting == 82 ){ S_TrainMulti = Int32.Parse(node.InnerText); }
-						else if ( setting == 83 ){ S_Scary = bool.Parse(node.InnerText); }
-						else if ( setting == 84 ){ S_Belly = bool.Parse(node.InnerText); }
+                                                else if ( setting == 81 ){ S_PickDips = XmlConvert.ToDouble(node.InnerText); }
+                                                else if ( setting == 82 ){ S_TrainMulti = Int32.Parse(node.InnerText); }
+                                                else if ( setting == 83 ){ S_Scary = bool.Parse(node.InnerText); }
+                                                else if ( setting == 84 ){ S_Belly = bool.Parse(node.InnerText); }
+                                                else if ( setting == 85 ){ S_SkillGainRateModifier = XmlConvert.ToDouble(node.InnerText); }
+                                                else if ( setting == 86 ){ S_SkillGainAmountModifier = XmlConvert.ToDouble(node.InnerText); }
 
-						setting++;
-					}
-				}
+                                                setting++;
+                                        }
+                                }
             }
         }
 
@@ -294,20 +298,38 @@ namespace Server.Misc
 			return S_NoMacroing;
 		}
 
-		public static double StatGain()
-		{
-			// THIS IS NOT ADVISED, BUT YOU CAN INCREASE THE CHANCE OF A STAT GAIN TO OCCUR
-			// STATS ONLY GAIN WHEN SKILLS ARE USED, SO A SKILL GAIN POTENTIAL MUST PRECEDE A STAT GAIN
+                public static double StatGain()
+                {
+                        // THIS IS NOT ADVISED, BUT YOU CAN INCREASE THE CHANCE OF A STAT GAIN TO OCCUR
+                        // STATS ONLY GAIN WHEN SKILLS ARE USED, SO A SKILL GAIN POTENTIAL MUST PRECEDE A STAT GAIN
 
-			if ( S_StatGain > 50 ){ S_StatGain = 50.0; } else if ( S_StatGain < 10 ){ S_StatGain = 10.0; }
+                        if ( S_StatGain > 50 ){ S_StatGain = 50.0; } else if ( S_StatGain < 10 ){ S_StatGain = 10.0; }
 
-			return S_StatGain; // LOWER THIS VALUE FOR MORE STAT GAIN - 33.3 IS DEFAULT - 0.01 IS VERY OFTEN
-		}
+                        return S_StatGain; // LOWER THIS VALUE FOR MORE STAT GAIN - 33.3 IS DEFAULT - 0.01 IS VERY OFTEN
+                }
 
-		public static TimeSpan StatGainDelay()
-		{
-			// THIS IS NOT ADVISED, BUT YOU CAN CHANGE THE TIME BETWEEN STAT GAINS
-			// HOW MANY MINUTES BETWEEN STAT GAINS
+                public static double SkillGainRateModifier()
+                {
+                        // THIS MODIFIER INCREASES OR DECREASES THE FREQUENCY OF SKILL GAINS
+                        if ( S_SkillGainRateModifier < 0.0 ){ S_SkillGainRateModifier = 0.0; }
+                        else if ( S_SkillGainRateModifier > 5.0 ){ S_SkillGainRateModifier = 5.0; }
+
+                        return S_SkillGainRateModifier; // 1.0 IS DEFAULT. SET BELOW 1.0 TO REDUCE, ABOVE 1.0 TO INCREASE GAIN CHANCE.
+                }
+
+                public static double SkillGainAmountModifier()
+                {
+                        // THIS MODIFIER INCREASES OR DECREASES THE AMOUNT OF SKILL GAIN PER SUCCESSFUL GAIN
+                        if ( S_SkillGainAmountModifier < 0.1 ){ S_SkillGainAmountModifier = 0.1; }
+                        else if ( S_SkillGainAmountModifier > 5.0 ){ S_SkillGainAmountModifier = 5.0; }
+
+                        return S_SkillGainAmountModifier; // 1.0 IS DEFAULT. VALUES BELOW 1.0 REDUCE, ABOVE 1.0 INCREASE SKILL GAIN SIZE.
+                }
+
+                public static TimeSpan StatGainDelay()
+                {
+                        // THIS IS NOT ADVISED, BUT YOU CAN CHANGE THE TIME BETWEEN STAT GAINS
+                        // HOW MANY MINUTES BETWEEN STAT GAINS
 
 			if ( S_StatGainDelay > 60 ){ S_StatGainDelay = 60.0; } else if ( S_StatGainDelay < 5 ){ S_StatGainDelay = 5.0; }
 
