@@ -338,4 +338,12 @@
 
 <setting>false</setting>
 
+// This decimal modifier adjusts how frequently skills can gain. 1.0 is default. Values below 1.0 reduce the chance while values above 1.0 increase the chance.
+
+<setting>1.0</setting>
+
+// This decimal modifier adjusts how much skill is awarded per gain check. 1.0 is default. Values below 1.0 reduce the gain size while values above 1.0 increase the gain size.
+
+<setting>1.0</setting>
+
 </settings>

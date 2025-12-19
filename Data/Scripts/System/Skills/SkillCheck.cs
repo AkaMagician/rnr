@@ -12,7 +12,6 @@ namespace Server.Misc
 		public static TimeSpan AntiMacroExpire = TimeSpan.FromMinutes( 5.0 ); 			// How long do we remember targets/locations?
 		public const int Allowance = 3;													// How many times may we use the same location/target for gain
 		private const int LocationSize = 5; 		
-		private double m_SkillGainRateMod = 1.0; // 1.0 = normal									// The size of each location, make this smaller so players don't have to move as far
 		private static bool[] UseAntiMacro = new bool[]
 		{
 			// true if this skill uses the anti-macro code, false if it does not
@@ -149,12 +148,14 @@ namespace Server.Misc
 			gc /= gainer;
 
 			gc += ( 1.0 - chance ) * ( success ? 0.5 : (Core.AOS ? 0.0 : 0.2) );
-			gc /= gainer;
+                        gc /= gainer;
 
-			gc *= skill.Info.GainFactor;
+                        gc *= skill.Info.GainFactor;
 
-			if ( gc < 0.01 )
-				gc = 0.01;
+                        gc *= MyServerSettings.SkillGainRateModifier();
+
+                        if ( gc < 0.01 )
+                                gc = 0.01;
 
 			if ( from is BaseCreature && ((BaseCreature)from).Controlled )
 				gc *= 2;
@@ -390,14 +391,17 @@ namespace Server.Misc
 				}
 
 				#region Scroll of Alacrity
-				PlayerMobile pm = from as PlayerMobile;
+                                PlayerMobile pm = from as PlayerMobile;
 
-				if ( from is PlayerMobile )
-					if (pm != null && skill.SkillName == pm.AcceleratedSkill && pm.AcceleratedStart > DateTime.Now)
-					toGain *= Utility.RandomMinMax(2, 5);
-					#endregion
+                                if ( from is PlayerMobile )
+                                        if (pm != null && skill.SkillName == pm.AcceleratedSkill && pm.AcceleratedStart > DateTime.Now)
+                                        toGain *= Utility.RandomMinMax(2, 5);
+                                        #endregion
 
-				if ( !from.Player || (skills.Total + toGain) <= skills.Cap )
+                                double gainAmount = toGain * MyServerSettings.SkillGainAmountModifier();
+                                toGain = Math.Max( 1, (int)Math.Round( gainAmount ) );
+
+                                if ( !from.Player || (skills.Total + toGain) <= skills.Cap )
 				{
 					skill.BaseFixedPoint += toGain;
 
@@ -579,3 +583,4 @@ namespace Server.Misc
 		}
 	}
 }
+
